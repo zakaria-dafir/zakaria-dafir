@@ -1,6 +1,5 @@
 <div align="center">
   
-![Header](https://github.com/Zakaria-Dafir/Zakaria-Dafir/raw/main/assets/banner.png)
 
 # Hi, I'm Zakaria Dafir! 👋
 ### Full-Stack Developer | 23 Years Old
