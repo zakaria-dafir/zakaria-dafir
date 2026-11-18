@@ -2,7 +2,7 @@
   
 
 # Hi, I'm Zakaria Dafir! 👋
-### Full-Stack Developer | 23 Years Old
+### Full-Stack Developer | 24 Years Old
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://z4k.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-dafir-9b5207275/)
